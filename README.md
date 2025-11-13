@@ -1,30 +1,9 @@
 # ELocate ♻️ | Premier E-waste Facility Locator & Recycling Platform
 
-
-## 🏆 Award-Winning Innovation
-
-**Team Spam Byte** from Deogiri Institute of Engineering And Management Studies, Chh. Sambhajinagar proudly secured the **Second Runner Up** position and a ₹30,000 prize at the [**i-nnovate Hackathon 2023**](https://www.intelliswift.com/innovate-hackathon) organized by [Intelliswift Software Pvt. Ltd](https://www.intelliswift.com/) at **Symbiosis International University**.
-
 ## 📝 Project Overview
 
 ELocate is a cutting-edge platform engineered to combat the escalating e-waste crisis by creating seamless connections between users and certified e-waste disposal facilities. Our comprehensive solution leverages advanced technology to promote environmental sustainability and responsible electronics lifecycle management.
 
-### 🎬 Introduction Video
-
-[Watch our detailed introduction to ELocate](https://youtu.be/rEyCnsLWbJU)
-
-## Live Preview
-
-Experience our platform in action: [ELocate ♻️](https://elocateinnovate.vercel.app)
-
-![image](https://github.com/shuence/ELocate/assets/65482186/02809587-82e8-4633-a53e-74e7f74654b4)
-![image](https://github.com/shuence/ELocate/assets/65482186/a4fae975-b9c3-4753-b1d8-ebb0fef7b64f)
-![image](https://github.com/shuence/ELocate/assets/65482186/930b1433-3d1b-4a32-a3c5-5f7f75ebbabc)
-![image](https://github.com/shuence/ELocate/assets/65482186/b48752ab-dc1e-48ea-9f83-5a7d47d50ccf)
-
-## Platform Demo
-
-See our prototype in action: [Comprehensive Video Demonstration](https://youtu.be/3IN58Qo_FvA)
 
 ## ✨ Key Features
 
