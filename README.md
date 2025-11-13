@@ -1,12 +1,5 @@
 # ELocate ♻️ | Premier E-waste Facility Locator & Recycling Platform
 
-::: center
-
-![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
-![Hackathon: i-nnovate 2023](https://img.shields.io/badge/Hackathon-i--nnovate%202023-blue)
-![Award: 2nd Runner Up](https://img.shields.io/badge/Award-2nd%20Runner%20Up-orange)
-
-:::
 
 ## 🏆 Award-Winning Innovation
 
