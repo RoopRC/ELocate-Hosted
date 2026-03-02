@@ -5,12 +5,6 @@
 ELocate is a cutting-edge platform engineered to combat the escalating e-waste crisis by creating seamless connections between users and certified e-waste disposal facilities. Our comprehensive solution leverages advanced technology to promote environmental sustainability and responsible electronics lifecycle management.
 
 
-🌐 Live Preview
-
-👉 https://rooprc.github.io/ELocate-Hosted/
-
-Experience the live deployment of ELocate and explore all features in real time.
-
 ## ✨ Key Features
 
 - **Advanced Facility Locator**: Instantly locate the nearest certified e-waste collection centers
