@@ -7,7 +7,7 @@ ELocate is a cutting-edge platform engineered to combat the escalating e-waste c
 
 🌐 Live Preview
 
-👉 https://github.com/RoopRC/ELocate-Hosted.git
+👉 https://rooprc.github.io/ELocate-Hosted/
 
 Experience the live deployment of ELocate and explore all features in real time.
 
